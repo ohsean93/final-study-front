@@ -17,9 +17,9 @@ export default {
     return {
       todos: [
         {id: 1, title:'Django DRF로 로그인 구현'},
-        {id: 1, title:'JWT활용 세션 구현'},
-        {id: 1, title:'Todo관련 API 구현'},
-        {id: 1, title:'vuex 활용한 Flux 아티택처 적용'},
+        {id: 2, title:'JWT활용 세션 구현'},
+        {id: 3, title:'Todo관련 API 구현'},
+        {id: 4, title:'vuex 활용한 Flux 아티택처 적용'},
       ]
     }
   },
